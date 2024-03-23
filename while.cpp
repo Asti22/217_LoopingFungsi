@@ -13,6 +13,8 @@ int main()
         cout <<"Bilangan" <<bilangan << "adalah ganji" <<endl;
         bilangan = rand() % 10;
     }
-    cout<<"Bilangan" << bilangan << "adalah genap" <<endl;
+    cout <<"Bilangan " << bilangan << "adalah genap" <<endl;
 }
     
+
+
